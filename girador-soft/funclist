@@ -1,0 +1,14 @@
+___awdiv: CODE, 6873 0 118
+_mostrar_caractere: CODE, 2557 0 1539
+___awmod: CODE, 6769 0 104
+_main: CODE, 1880 0 161
+_desenhar_relogio_analogico: CODE, 4192 0 423
+_verificar_botoes: CODE, 7653 0 268
+_ponto: CODE, 5059 0 1085
+_interrupcoes: CODE, 4615 0 444
+_desenhar_relogio_digital: CODE, 7146 0 244
+_linha: CODE, 6991 0 155
+_tentar_mostrar_expoeletrica: CODE, 7390 0 263
+___wmul: CODE, 2058 0 44
+___bmul: CODE, 4123 0 26
+Total: 4874
