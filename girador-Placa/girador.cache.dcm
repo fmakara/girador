@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0  5/4/2010 20:02:09
+#
+$CMP CONN_2X2
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_5
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP LED
+D LED
+$ENDCMP
+#
+#End Doc Library

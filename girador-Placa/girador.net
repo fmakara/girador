@@ -1,0 +1,322 @@
+# EESchema Netlist Version 1.1 created  5/4/2010 17:55:36
+(
+ ( /4BB56EAE C1 C1 22pF
+  ( 1 N-000026 )
+  ( 2 N-000032 )
+ )
+ ( /4BB56EA5 C1 C2 22pF
+  ( 1 N-000004 )
+  ( 2 N-000032 )
+ )
+ ( /4BBA4CDB C1.5V8V C3 2200uF
+  ( 1 N-000032 )
+  ( 2 N-000031 )
+ )
+ ( /4BB56185 LED-5MM D1 LED
+  ( 1 N-000010 )
+  ( 2 N-000032 )
+ )
+ ( /4BB56199 LED-5MM D2 LED
+  ( 1 N-000022 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561A1 LED-5MM D3 LED
+  ( 1 N-000009 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561A2 LED-5MM D4 LED
+  ( 1 N-000023 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561AC LED-5MM D5 LED
+  ( 1 N-000008 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561AD LED-5MM D6 LED
+  ( 1 N-000024 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561AE LED-5MM D7 LED
+  ( 1 N-000007 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561AF LED-5MM D8 LED
+  ( 1 N-000025 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561B8 LED-5MM D9 LED
+  ( 1 N-000014 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561B9 LED-5MM D10 LED
+  ( 1 N-000018 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561BA LED-5MM D11 LED
+  ( 1 N-000013 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561BB LED-5MM D12 LED
+  ( 1 N-000019 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561BC LED-5MM D13 LED
+  ( 1 N-000011 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561BD LED-5MM D14 LED
+  ( 1 N-000020 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561BE LED-5MM D15 LED
+  ( 1 N-000012 )
+  ( 2 N-000032 )
+ )
+ ( /4BB561BF LED-5MM D16 LED
+  ( 1 N-000021 )
+  ( 2 N-000032 )
+ )
+ ( /4BB56C45 LED-5MM D17 LED
+  ( 1 N-000031 )
+  ( 2 N-000006 )
+ )
+ ( /4BB8A799 LED-5MM D18 DIODE_PHOTODIODE
+  ( 1 N-000005 )
+  ( 2 N-000031 )
+ )
+ ( /4BB56440 PIN_ARRAY_5x1 P1 CONN_5
+  ( 1 N-000015 )
+  ( 2 N-000031 )
+  ( 3 N-000032 )
+  ( 4 N-000016 )
+  ( 5 N-000017 )
+ )
+ ( /4BB7F8F9 PIN_ARRAY_2X2 P4 CONN_2X2
+  ( 1 N-000032 )
+  ( 2 N-000031 )
+  ( 3 N-000032 )
+  ( 4 N-000031 )
+ )
+ ( /4BBA265D PIN_ARRAY_2X1 P5 CONN_2
+  ( 1 N-000027 )
+  ( 2 N-000003 )
+ )
+ ( /4BBA25C9 PIN_ARRAY_2X1 P6 CONN_2
+  ( 1 N-000028 )
+  ( 2 N-000002 )
+ )
+ ( /4BBA25DA PIN_ARRAY_2X1 P7 CONN_2
+  ( 1 N-000029 )
+  ( 2 N-000001 )
+ )
+ ( /4BB568BE R3 R1 10K
+  ( 1 N-000031 )
+  ( 2 N-000015 )
+ )
+ ( /4BB56D21 R3 R2 R
+  ( 1 N-000006 )
+  ( 2 N-000032 )
+ )
+ ( /4BB56D28 R3 R3 R
+  ( 1 N-000005 )
+  ( 2 N-000032 )
+ )
+ ( /4BB567F6 DIP-40__600 U***1 PIC16F877A
+  ( 1 N-000015 )
+  ( 2 N-000013 )
+  ( 3 N-000019 )
+  ( 4 N-000011 )
+  ( 5 N-000020 )
+  ( 6 N-000012 )
+  ( 7 N-000021 )
+  ( 8 N-000014 )
+  ( 9 N-000018 )
+  ( 10 ? )
+  ( 11 N-000031 )
+  ( 12 N-000032 )
+  ( 13 N-000026 )
+  ( 14 N-000004 )
+  ( 15 N-000027 )
+  ( 16 N-000003 )
+  ( 17 ? )
+  ( 18 N-000028 )
+  ( 19 N-000010 )
+  ( 20 N-000022 )
+  ( 21 N-000009 )
+  ( 22 N-000023 )
+  ( 23 N-000002 )
+  ( 24 ? )
+  ( 25 N-000029 )
+  ( 26 N-000001 )
+  ( 27 N-000008 )
+  ( 28 N-000024 )
+  ( 29 N-000007 )
+  ( 30 N-000025 )
+  ( 31 N-000032 )
+  ( 32 N-000031 )
+  ( 33 N-000005 )
+  ( 34 ? )
+  ( 35 ? )
+  ( 36 ? )
+  ( 37 ? )
+  ( 38 ? )
+  ( 39 N-000017 )
+  ( 40 N-000016 )
+ )
+ ( /4BB56E87 HC-18UH X1 20MHz
+  ( 1 N-000026 )
+  ( 2 N-000004 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ C1-1
+ SMD*
+ C*
+$endlist
+$component C2
+ C1-1
+ SMD*
+ C*
+$endlist
+$component C3
+ CP*
+ SM*
+$endlist
+$component D1
+ D?
+ S*
+ LED*
+$endlist
+$component D2
+ D?
+ S*
+ LED*
+$endlist
+$component D3
+ D?
+ S*
+ LED*
+$endlist
+$component D4
+ D?
+ S*
+ LED*
+$endlist
+$component D5
+ D?
+ S*
+ LED*
+$endlist
+$component D6
+ D?
+ S*
+ LED*
+$endlist
+$component D7
+ D?
+ S*
+ LED*
+$endlist
+$component D8
+ D?
+ S*
+ LED*
+$endlist
+$component D9
+ D?
+ S*
+ LED*
+$endlist
+$component D10
+ D?
+ S*
+ LED*
+$endlist
+$component D11
+ D?
+ S*
+ LED*
+$endlist
+$component D12
+ D?
+ S*
+ LED*
+$endlist
+$component D13
+ D?
+ S*
+ LED*
+$endlist
+$component D14
+ D?
+ S*
+ LED*
+$endlist
+$component D15
+ D?
+ S*
+ LED*
+$endlist
+$component D16
+ D?
+ S*
+ LED*
+$endlist
+$component D17
+ D?
+ S*
+ LED*
+$endlist
+$component R1
+ R250-4
+ R250-5
+ R250-6
+ R500-5
+ R500-6
+ R500-7
+ R1000-7
+ R1000-8
+ R2000-8
+ R2000-10
+ R3000-10
+ R3000-12
+ R1-V
+$endlist
+$component R2
+ R250-4
+ R250-5
+ R250-6
+ R500-5
+ R500-6
+ R500-7
+ R1000-7
+ R1000-8
+ R2000-8
+ R2000-10
+ R3000-10
+ R3000-12
+ R1-V
+$endlist
+$component R3
+ R250-4
+ R250-5
+ R250-6
+ R500-5
+ R500-6
+ R500-7
+ R1000-7
+ R1000-8
+ R2000-8
+ R2000-10
+ R3000-10
+ R3000-12
+ R1-V
+$endlist
+$component X1
+ HC-18UH
+ HC-18UV
+$endlist
+$endfootprintlist
+}

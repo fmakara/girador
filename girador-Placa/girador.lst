@@ -1,0 +1,65 @@
+EESchema (20090216-final)  >> Creation date: 3/4/2010 23:29:01
+
+#Componente ( ordenação = Referência )
+| C1         C           
+| C2         C           
+| D1         LED         
+| D2         LED         
+| D3         LED         
+| D4         LED         
+| D5         LED         
+| D6         LED         
+| D7         LED         
+| D8         LED         
+| D9         LED         
+| D10        LED         
+| D11        LED         
+| D12        LED         
+| D13        LED         
+| D14        LED         
+| D15        LED         
+| D16        LED         
+| D17        LED         
+| P1         CONN_5      
+| P3         CONN_2      
+| P4         CONN_2X2    
+| Q1         OPTO_NPN    
+| R1         R           
+| R2         R           
+| R3         R           
+| U***1      PIC16F877A  
+| X1         CRYSTAL     
+#Fim dos Componentes
+
+#Componente ( ordenação = Valor )
+| C            C1        
+| C            C2        
+| CONN_2       P3        
+| CONN_2X2     P4        
+| CONN_5       P1        
+| CRYSTAL      X1        
+| LED          D1        
+| LED          D2        
+| LED          D3        
+| LED          D4        
+| LED          D5        
+| LED          D6        
+| LED          D7        
+| LED          D8        
+| LED          D9        
+| LED          D10       
+| LED          D11       
+| LED          D12       
+| LED          D13       
+| LED          D14       
+| LED          D15       
+| LED          D16       
+| LED          D17       
+| OPTO_NPN     Q1        
+| PIC16F877A   U***1     
+| R            R1        
+| R            R2        
+| R            R3        
+#Fim dos Componentes
+
+#Fim da Lista
